@@ -1,0 +1,108 @@
+/* BODY ***************************************************/
+body {
+  font-family: "Montserrat", "Open Sans", Arial, sans-serif;
+  color: #3a413f;
+  background-color: white;
+  text-align: center;
+
+}
+
+/* NAVBAR *************************************************/
+.navbar {
+  background-color: #6FEDD6;
+  font-size: 1.25rem;
+}
+
+.navbar a:hover {
+  color: #636f6c;
+  font-size: 125%;
+}
+
+.navbar .navbar-nav a:hover {
+  color: #636f6c;
+  font-size: 102%;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar-nav a {
+  margin-right: 1rem;
+  color: white;
+}
+
+/* ABOUT ME *************************************************/
+.about-me-container {
+  margin-top: 8rem;
+}
+
+.personal-pic img {
+  width: 35rem;
+  border-radius: 5%;
+}
+
+/* MEMORABLE MOMENTS ****************************************/
+#mm {
+  background-color: #5cc4b1;
+}
+
+.mm-container {
+  margin-top: 5rem;
+}
+
+.mm-header {
+  padding-top: 1rem;
+  margin: 0;
+  padding-bottom: 1rem;
+}
+
+.carousel-item {
+  transform: scale(75%);
+}
+
+/* CALENDAR *************************************************/
+.calendar-container {
+  margin-top: 1rem;
+}
+
+.calendar-header {
+  padding-top: 0;
+  margin: 0;
+  padding-bottom: 1rem;
+}
+
+/* BUSINESS INQUIRIES****************************************/
+#business-inquiries {
+  background-color: #5cc4b1;
+  margin-top: 8rem;
+}
+
+/* SOCIALS *************************************************/
+
+.socials-container {
+  margin-top: 3rem;
+}
+
+.socials-container a {
+  color: #5cc4b1;
+  padding-right: 1rem;
+  font-size: 4rem;
+}
+
+.socials-container a:hover {
+  color: #636f6c;
+}
+
+/* FOOTER ****************************************************/
+#footer {
+  background-color: #5cc4b1;
+}
+
+.footer-container p {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  padding: 1.5rem 0;
+}
