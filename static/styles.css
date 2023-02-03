@@ -7,6 +7,10 @@ body {
 
 }
 
+.body-div {
+  max-width: none;
+}
+
 /* NAVBAR *************************************************/
 .navbar {
   background-color: #00c2cb;
@@ -20,7 +24,7 @@ body {
 
 .navbar .navbar-nav a:hover {
   color: #636f6c;
-  font-size: 102%;
+  font-size: 100%;
 }
 
 .navbar-brand {
